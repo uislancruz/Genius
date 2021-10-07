@@ -39,6 +39,7 @@ public class telaGenio extends javax.swing.JFrame {
         btnPalpite = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setResizable(false);
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagens/akinator1defidk0.png"))); // NOI18N
